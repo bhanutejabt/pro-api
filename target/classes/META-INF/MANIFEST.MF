@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bhanu
+Build-Jdk: 17.0.2
+Implementation-Title: Spring Project Api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.spring.project
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/pro-api/
+Created-By: Maven Integration for Eclipse
+
