@@ -1,8 +1,8 @@
-io\spring\springbootstarter\course\CourseController.class
-io\spring\springbootstarter\course\CourseService.class
 io\spring\springbootstarter\topic\TopicController.class
 io\spring\springbootstarter\topic\TopicRepository.class
 io\spring\springbootstarter\course\Course.class
+io\spring\springbootstarter\course\CourseController.class
+io\spring\springbootstarter\course\CourseService.class
 io\spring\springbootstarter\course\CourseRepository.class
 io\spring\springbootstarter\topic\Topic.class
 io\spring\springbootstarter\topic\TopicService.class
